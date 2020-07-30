@@ -75,5 +75,5 @@ fi
 
 
 %changelog
-* Thu Jun 11 2020 uoser <uoser@uniontech.com> - 2020.05.25
-- Update to 2020.05.25 
+* Thu Jul 30 2020 openEuler Buildteam <buildteam@openeuler.org> - 2020.06.28-1
+- Package init
